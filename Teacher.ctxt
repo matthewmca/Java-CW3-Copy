@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Teacher()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Teacher\r\n
+comment1.params=forname\ surname\ age\ roomNumber
+comment1.target=Teacher(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=newRoomNumber
+comment2.target=void\ setRoomNumber(int)
+comment3.params=
+comment3.target=int\ getRoomNumber()
+comment4.params=
+comment4.target=void\ display()
+numComments=5
